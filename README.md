@@ -15,9 +15,13 @@ The dataset contains information about 381,109 customers, including their age, g
 The project involved the following steps:
 
 Data cleaning and preprocessing: Handling missing values and encoding categorical variables.
+
 Exploratory data analysis (EDA): Gaining insights and identifying patterns or relationships in the data.
+
 Splitting the dataset into training and testing sets.
+
 Applying machine learning algorithms (logistic regression, random forest, and XGBoost) to the training data and tuning hyperparameters using cross-validation.
+
 Evaluating model performance using accuracy, precision, recall, F1 score, and ROC-AUC curve.
 
 **5. Conclusion:**
